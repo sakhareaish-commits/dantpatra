@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dantpatra Toothpaste Paper</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;margin:0;background:#f5f7f6;color:#333}
+header{background:#0f766e;color:white;padding:40px 20px;text-align:center}
+nav{background:#134e4a;padding:10px;text-align:center}
+nav a{color:white;margin:0 15px;text-decoration:none;font-weight:bold}
+section{padding:40px 20px;max-width:1000px;margin:auto}
+.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}
+.card{background:white;border-radius:10px;padding:20px;box-shadow:0 4px 10px rgba(0,0,0,0.08)}
+footer{background:#134e4a;color:white;text-align:center;padding:20px;margin-top:40px}
+.tagline{font-size:20px;margin-top:10px}
+.slogan{font-style:italic;margin:8px 0}
+button{background:#0f766e;color:white;border:none;padding:12px 20px;border-radius:6px;cursor:pointer}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Dantpatra</h1>
+<p class="tagline">Brush Anytime, Anywhere – The Smart Way</p>
+</header>
+
+<nav>
+<a href="#product">Product</a>
+<a href="#features">Features</a>
+<a href="#about">About</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="product">
+<h2>Toothpaste Paper</h2>
+<p>Dantpatra Toothpaste Paper is an innovative and eco-friendly oral care solution designed for convenience and sustainability. These thin dissolvable strips contain toothpaste ingredients that dissolve when brushed with a wet toothbrush. Compact and lightweight, Dantpatra is perfect for travel, camping, office use, and daily oral hygiene. It helps reduce plastic waste while providing effective cleaning and fresh breath anytime, anywhere.</p>
+</section>
+
+<section id="features">
+<h2>Key Features</h2>
+<div class="features">
+<div class="card">Eco-Friendly – Reduces plastic waste with paper-based toothpaste strips.</div>
+<div class="card">Travel Friendly – Lightweight and easy to carry anywhere.</div>
+<div class="card">Quick Dissolve – Dissolves instantly when brushing with water.</div>
+<div class="card">Effective Cleaning – Helps maintain oral hygiene and fresh breath.</div>
+<div class="card">Compact Packaging – Convenient and space-saving design.</div>
+<div class="card">Sustainable Choice – Ideal for environmentally conscious consumers.</div>
+</div>
+</section>
+
+<section id="about">
+<h2>About Us</h2>
+<p>Dantpatra is an innovative oral care brand dedicated to providing convenient and eco-friendly alternatives to traditional toothpaste. Our toothpaste paper strips make brushing simple, portable, and sustainable. By combining modern technology with responsible packaging, Dantpatra aims to reduce plastic waste while ensuring effective oral hygiene. Our mission is to promote healthier smiles and a cleaner planet.</p>
+
+<h3>Our Slogans</h3>
+<p class="slogan">Small Strip, Big Smile.</p>
+<p class="slogan">The Future of Toothpaste is Paper.</p>
+<p class="slogan">Clean Teeth, Clean Planet.</p>
+<p class="slogan">Smart Oral Care for Modern Life.</p>
+</section>
+
+<section id="contact">
+<h2>Contact Us</h2>
+<p>Email: info@dantpatra.com</p>
+<p>Phone: +91 XXXXX XXXXX</p>
+<button>Order Now</button>
+</section>
+
+<footer>
+<p>© 2026 Dantpatra. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
